@@ -11,7 +11,7 @@ function onOpen() {
 const colorRanges = [
   { start: 1, end: 30, color: '#FFFFFF' },
   { start: 31, end: 43, color: '#000000' },
-  { start: 44, end: 74, color: '#FFFFFF' }
+  { start: 44, end: 76, color: '#FFFFFF' }
 ];
 
 // ページ番号を振る（デフォルト）
